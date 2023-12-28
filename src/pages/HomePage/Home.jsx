@@ -6,7 +6,7 @@ const Home = () => {
       <h1>
         Phonebook
       </h1>
-      <p>Put herer your contacts</p>
+      <p>Put here your contacts</p>
     </SectionHome>
   );
 };
